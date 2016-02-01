@@ -1,0 +1,28 @@
+name: ericmichaeltollefson.photography
+favicon: null
+layout_spectrum: 0.014753018971532583
+typography_spectrum: 0.48313118633814156
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.12492773565463722
+  lightness: 0.8655882284510881
+  saturation: 0.8755100425332785
+  rhythmicContrast: 0.31752552394755185
+purpose: []
