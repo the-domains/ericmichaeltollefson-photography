@@ -1,7 +1,7 @@
 name: ericmichaeltollefson.photography
 favicon: null
-layout_spectrum: 0.014753018971532583
-typography_spectrum: 0.48313118633814156
+layout_spectrum: 0.25681
+typography_spectrum: 0.75634
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.12492773565463722
+  brandStrength: 0.9375
   lightness: 0.8655882284510881
   saturation: 0.8755100425332785
   rhythmicContrast: 0.31752552394755185
